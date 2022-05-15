@@ -1,3 +1,6 @@
+[![status](https://joss.theoj.org/papers/313422a651f2ff1ad183e898f4f5f5a3/status.svg)](https://joss.theoj.org/papers/313422a651f2ff1ad183e898f4f5f5a3)
+<!-- [![GitHub release](https://img.shields.io/github/release/deepmodeling/deepmd-kit.svg?maxAge=86400)](https://github.com/siminegroup/E2EDNA2/releases) -->
+
 <!-- # Documentation -->
 ## E2EDNA 2.0 - OpenMM Implementation of E2EDNA !
 
